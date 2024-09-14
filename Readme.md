@@ -1,8 +1,8 @@
-Music Library Management System
+# Music Library Management System
 
 This is a mini project that implements a **Music Library Management System** using Python and MySQL. It provides a user-friendly interface for managing music records, including adding, viewing, searching, and deleting songs. The project uses various Python libraries such as Tkinter, PyMySQL, and Pillow to create the GUI and manage the MySQL database.
 
-# Features
+## Features
 
 - **User Login/Signup**: Allows users to log in or subscribe to the system.
 - **Add Song**: Users can add new songs by providing details like title, artist, album, genre, and release year.
@@ -11,7 +11,7 @@ This is a mini project that implements a **Music Library Management System** usi
 - **Delete Song**: Allows removal of songs from the library.
 - **Data Normalization**: Ensures the music database follows 3NF and BCNF for efficient data management.
 
-# Technologies Used
+## Technologies Used
 
 - **Frontend**: Python (Tkinter for GUI)
 - **Backend**: MySQL (PyMySQL for database interaction)
@@ -20,7 +20,7 @@ This is a mini project that implements a **Music Library Management System** usi
   - **PyMySQL**: For MySQL database interaction.
   - **Pillow**: For handling images in the GUI.
 
-# How to Run the Project
+## How to Run the Project
 
 1. Clone the repository.
 2. Install the required Python modules:
@@ -34,23 +34,23 @@ This is a mini project that implements a **Music Library Management System** usi
    - Start with `main.py` for login/signup.
    - Use the add, delete, and search functionalities from the GUI.
 
-# Database Schema
+## Database Schema
 
 - **Artist Table**: Contains artist details.
 - **Genre Table**: Stores genres.
 - **Album Table**: Holds album information.
 - **Track Table**: Stores track details linked with artist, album, and genre tables.
 
-# ER Diagram
+## ER Diagram
 
 An ER diagram is included to provide a visual representation of the database structure.
 
-# Contributors
+## Contributors
 
 - **Dharunraj P**
 - **Muthu Nitheesh R**
 - **S Prasanna Venkatesh**
 
-# Acknowledgments
+## Acknowledgments
 
 Special thanks to our mentors and peers for their guidance and support in completing this project.
