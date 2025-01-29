@@ -77,7 +77,7 @@ MusicLibraryManagementSystem/
 - Explore the genre-specific views for a customized experience.
 
 ## Authors
-- Dharunraj P
+- **[Dharunraj P](https://github.com/Dharun1504)**
 - Muthu Nitheesh R
-- Prasanna Venkatesh S
+- **[Prasanna Venkatesh S](https://github.com/anna123venkat)**
 
