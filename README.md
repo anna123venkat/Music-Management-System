@@ -62,8 +62,8 @@ MusicLibraryManagementSystem/
 ### Steps to Run the Project
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/MusicLibraryManagementSystem.git
-   cd MusicLibraryManagementSystem
+   git clone https://github.com/anna123venkat/Music-Management-System.git
+   cd Music-Management-System
    ```
 
 2. **Install Dependencies:**
