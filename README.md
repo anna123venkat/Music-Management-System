@@ -1,5 +1,17 @@
 # Music Library Management System
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Key Features](#key-features)
+3. [Technologies Used](#technologies-used)
+4. [Project Structure](#project-structure)
+5. [Setup and Installation](#setup-and-installation)
+   - [Prerequisites](#prerequisites)
+   - [Steps to Run the Project](#steps-to-run-the-project)
+6. [Usage](#usage)
+7. [References](#references)
+8. [Contributors](#contributors)
+
 ## Project Overview
 The **Music Library Management System** is a Python-based application that allows users to manage a music library. This system integrates a GUI front-end with Python's Tkinter and a MySQL database back-end to provide functionalities such as adding, searching, viewing, and deleting songs. It also includes features like user authentication and playlist management.
 
@@ -77,15 +89,13 @@ MusicLibraryManagementSystem/
 - Explore the genre-specific views for a customized experience.
 
 ## References
-- **Tkinter Documentation:** https://docs.python.org/3/library/tkinter.html
-- **MySQL Connector for Python:** https://dev.mysql.com/doc/connector-python/en/
-- **Pillow (PIL) Library:** https://pillow.readthedocs.io/en/stable/
-- **Python MySQL Tutorial:** https://realpython.com/python-mysql/
-- **GitHub Repository Template:** https://github.com/
+- [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
+- [MySQL Connector for Python](https://dev.mysql.com/doc/connector-python/en/)
+- [Pillow (PIL) Library](https://pillow.readthedocs.io/en/stable/)
+- [Python MySQL Tutorial](https://realpython.com/python-mysql/)
 
 ## Contributors
 - **[Dharunraj P](https://github.com/Dharun1504)**
 - Muthu Nitheesh R
 - **[Prasanna Venkatesh S](https://github.com/anna123venkat)**
-
 
