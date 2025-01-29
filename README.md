@@ -76,8 +76,16 @@ MusicLibraryManagementSystem/
 - Use the GUI to add, search, view, or delete songs.
 - Explore the genre-specific views for a customized experience.
 
-## Authors
+## References
+- **Tkinter Documentation:** https://docs.python.org/3/library/tkinter.html
+- **MySQL Connector for Python:** https://dev.mysql.com/doc/connector-python/en/
+- **Pillow (PIL) Library:** https://pillow.readthedocs.io/en/stable/
+- **Python MySQL Tutorial:** https://realpython.com/python-mysql/
+- **GitHub Repository Template:** https://github.com/
+
+## Contributors
 - **[Dharunraj P](https://github.com/Dharun1504)**
 - Muthu Nitheesh R
 - **[Prasanna Venkatesh S](https://github.com/anna123venkat)**
+
 
